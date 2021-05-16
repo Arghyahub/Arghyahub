@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arghyahub
+- 👋 Hi, I’m Arghya Das
 - 👀 I’m interested in Exploring and learning new things
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects from which I can learn more
