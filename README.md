@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="The Matrix" width="90%" height="80%" src="https://media.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" >
+</p>
+
 <h1 align="center">Hi 👋, I'm Arghya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
