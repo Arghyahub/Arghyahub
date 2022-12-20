@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://arghyahub.github.io/cv/](https://arghyahub.github.io/cv/)
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT**
-
 - 📫 How to reach me **arghyadas242004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
