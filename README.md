@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://arghyahub.github.io/cv/](https://arghyahub.github.io/cv/)
+- 👨‍💻 All of my projects are available at [HERE](https://cv-arghyahub.vercel.app/)
 
 - 📫 How to reach me **arghyadas242004@gmail.com**
 
